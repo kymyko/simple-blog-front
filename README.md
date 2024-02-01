@@ -1,6 +1,8 @@
 # John Doe | Photo Studio
 
-This is a basic HTML webpage for John Doe's Photo Studio.
+MOCK MODEL!
+
+This is a basic HTML webpage for John Doe's Photo Studio. 
 
 ## Table of Contents
 
