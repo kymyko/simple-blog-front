@@ -1,0 +1,92 @@
+body{
+    font-family: Cormorant, serif;
+    font-size: 300;
+    margin: 16px;
+}
+
+
+/* navbar */
+
+h1{
+    display: inline-block;
+    margin: 0 48px 0 0;
+}
+
+.homeNav{
+    display: inline-block;
+}
+
+.homeNav li{
+    display: inline-block;
+}
+
+.homeNav a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 8px;
+}
+
+a.active{
+     border-bottom: 1px solid black;
+}
+
+
+/* card and gallery*/
+
+.card img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card img:hover{
+    opacity: 0.8 ;
+}
+
+.card {
+    width: 49.75%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+.card h2{
+    display: inline-block;
+}
+
+.gallery{
+    margin: 16px;
+}
+
+.gallery h2{
+    margin: 8px 0 16px 0;
+    font-weight: 300;
+}
+
+.about h3{
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.about{
+    width: 40%;
+    min-width: 600px;
+    margin: 100px 0 100px 200px;
+}
+
+.contact{
+    margin-top: 100px;
+}
+
+.contact p{
+    margin: 0;
+    font-size: 20px;
+}
+
+.cta{
+    border-bottom: 1px solid black;
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-top: 0;
+}
